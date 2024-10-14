@@ -1,1 +1,0 @@
-This file has added in the gitignore folder and this file will be ignored by the gitignore.
